@@ -1,5 +1,5 @@
 ### About Me📌
-¡Hola, mi nombre es Francisco Perez grote!<br>
+¡Hola, mi nombre es Francisco Perez Grote!<br>
 Tengo 20 años y soy programador Full-Stack Junior,<br> ademas de programador soy jugador de rugby🏈,<br> disfruto mucho del tiempo en familia o con amigos 👍🏾<br> y me gustan muchisimo los videojuegos 🎮.  <br><br>
 ¡Te invito a que bajes y veas todos mis repositorios de GitHub 🔥!<br>
 
