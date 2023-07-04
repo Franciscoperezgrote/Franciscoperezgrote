@@ -5,7 +5,7 @@ Tengo 20 años y soy programador Full-Stack Junior,<br> ademas de programador so
 
 Tengo muchas metas que quiero cumplir y algunas de ellas son:
 
-💥 Crecer como developer y mejorar dia a dia.<br>
+💥 Crecer como desarrollador y mejorar dia a dia.<br>
 ⌨ Desarrollar un proyecto que pueda ayudar a la sociedad cotidianamente.<br>
 👨‍🎓 Graduarme de mi carrera Lic. En sistemas de información.<br>
 ✈️ Viajar a estados unidos a conocer universal studios.<br>
